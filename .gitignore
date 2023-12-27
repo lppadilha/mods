@@ -1,0 +1,14 @@
+config/
+defaultconfigs/
+libraries/
+logs/
+banned-ips.json
+banned-players.json
+eula.txt
+ops.json
+run.bat
+run.sh
+server.properties
+user_jvm_args.txt
+usercache.json
+whitelist.json
